@@ -1,5 +1,7 @@
 ### Hi there 👋
+In short, this is my profile whereby I like to create and maintain small, and potentially larger projects that I've worked on, and to enhance my knowledge of programming. 
 
+TBA
 <!--
 **UncharteredWorld/UncharteredWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
