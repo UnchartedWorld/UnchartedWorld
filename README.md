@@ -1,6 +1,6 @@
 # <p style="text-align: center;">Who Am I? 🤔 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=uncharteredworld.uncharteredworld)  [![Github](https://img.shields.io/github/followers/UncharteredWorld?label=Follow&style=social)](https://github.com/UncharetedWorld)
+![](https://visitor-badge.laobi.icu/badge?page_id=uncharteredworld.uncharteredworld)  [![Github](https://img.shields.io/github/followers/UncharteredWorld?label=Follow&style=social)](https://github.com/UncharteredWorld)
 
 <p>A current undergraduate aspiring to become a full-stack web developer, to work with colleagues and create interesting and concise solutions to problems. Challenges are there to be broken, and much like a video game, beating those challenges is always rewarding.
 
