@@ -2,7 +2,7 @@
 In short, this is my profile whereby I like to create and maintain small, and potentially larger projects that I've worked on, and to enhance my knowledge of programming. 
 TBA
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncharteredworld&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncharteredworld&hide_border=true&&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **UncharteredWorld/UncharteredWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
