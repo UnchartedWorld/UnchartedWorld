@@ -4,7 +4,6 @@
 
 <p>A current undergraduate aspiring to become a developer, to work with colleagues and create interesting and concise solutions to problems. Challenges are there to be broken, and much like a video game, beating those challenges is always rewarding.
 
-I also like trying other forms of programming, so don't be surprised if you see stuff unrelated to web apps.
  </p>
 
 
